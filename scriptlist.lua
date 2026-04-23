@@ -1,0 +1,8 @@
+return {
+ [5130394318] = {
+        Name    = "Bizarre Lineage",
+        PaidUrl = "https://api.luarmor.net/files/v4/loaders/450f7000609a5ac4f72100319e4fef66.lua",
+        FreeUrl = "https://api.luarmor.net/files/v4/loaders/647748b5cef79f79edf9f7fc1c0957a1.lua",
+    },
+
+}
